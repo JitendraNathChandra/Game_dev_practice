@@ -3,7 +3,7 @@ Practice Work
 JavaScript Bacis Task
 linkedln Profile : www.linkedin.com/in/jitendra-nath-chandra-1657081b1
  */
-var timer = 30;
+var timer = 31;
 var score = 0;
 var hitrn = 0;
 
